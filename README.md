@@ -30,4 +30,4 @@ Built with HTML/CSS to present my profile and projects in a clean and profession
 
 ---
 
-Feel free to check out my work, and connect with me on [LinkedIn](https://www.linkedin.com/in/yael-solan-16800a360).
+Feel free to check out my work, and connect with me on [LinkedIn](https://www.linkedin.com/in/yaelsolan).
