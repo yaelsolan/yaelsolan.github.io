@@ -1,5 +1,4 @@
-
-# 👋 Welcome to my GitHub – Yael Solan
+## 👋 Welcome to my GitHub – Yael Solan
 
 I am a career changer (Quereinsteigerin) with a background in political science and a strong passion for technology, artificial intelligence, and data analysis. I am currently transitioning into the tech industry through intensive self-learning, courses, and hands-on projects.
 
@@ -16,10 +15,13 @@ A simple chatbot using the OpenAI API, built with Python – ideal for beginners
 Exploratory data analysis using Python (Pandas & Matplotlib). A core project showcasing clean code and data visualization.
 
 ### 📄 [mietvertrag-pdf-analyse](https://github.com/yaelsolan/mietvertrag-pdf-analyse)
-PDF parsing tool for rental agreements, including auto-text extraction, summarization and structured data output.
+PDF parsing tool for rental agreements, including auto-text extraction, summarization and structured data output. Built with Python and Streamlit, with integrated AI features.
 
 ### 🏠 [hauspreis-vorhersage](https://github.com/yaelsolan/hauspreis-vorhersage)
 House price prediction using linear regression with scikit-learn – my first ML project.
+
+### 📇 [kontaktverwaltung](https://github.com/yaelsolan/kontaktverwaltung)
+Contact manager built in Python, featuring an update function. A foundational CRUD-style application.
 
 ---
 
